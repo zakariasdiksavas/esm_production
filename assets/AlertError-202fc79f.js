@@ -1,0 +1,1 @@
+import{d as s,j as e,l as o}from"./index-6dfaf798.js";import{A as t}from"./moment-b22360b6.js";function l(){const{t:r,i18n:a}=s();return e.jsx(t,{severity:"error",children:r(o.global.errorMessage)})}export{l as A};
